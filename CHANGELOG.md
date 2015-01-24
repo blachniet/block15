@@ -1,3 +1,9 @@
+## vNext (2015-01-24)
+
+- Disabled comments
+- Added share on Twitter button
+
+
 ## 0.3 (2015-01-24)
 
 - Changed `pre` background color to `#f8f8f8`

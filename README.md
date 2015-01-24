@@ -17,6 +17,7 @@ Below is a list of some of the differences between this theme and it's parent:
 - Added custom footer
 - Increased nav menu font size
 - Changed `pre` background color
+- Disabled comments - added share on Twitter button instead
 
 ## Contributing
 

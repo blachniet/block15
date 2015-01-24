@@ -222,6 +222,49 @@ pre{
 }
 
 /**
+ * Entry Footer
+ */
+.entry-footer .sharing{
+  text-align: center;
+  padding: 0.75em;
+  margin-top: 1.5em;
+}
+
+.entry-footer .sharing p{
+  text-align: center;
+  font-size: 1.1em;
+  font-style: italic;
+  margin-bottom: 0;
+}
+
+.entry-footer .sharing a{
+  border: 1px solid #33ADFF;
+  border: 1px solid rgba(0, 122, 204, 0.2);
+  color: #33ADFF;
+  color: rgba(0, 122, 204, 0.7);
+  display: inline-block;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 1.25em;
+  line-height: 1;
+  margin-top: .5em;
+  padding: 0.4167em 0.8333em;
+}
+
+.entry-footer .sharing a:hover,
+.entry-footer .sharing a:focus {
+  border-color: #007ACC;
+  color: #007ACC;
+  outline: 0;
+}
+
+.share-btn-twitter:before{
+  font-family: "Genericons";
+  content: "\f202";
+  margin-right: 5px;
+}
+
+/**
  * Footer
  */
 .site-footer .site-info {
