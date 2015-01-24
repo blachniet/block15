@@ -1,4 +1,4 @@
-## 0.1.0
+## 0.1 (2015-01-23)
 
 - Added logo to sidebar/header
 - Changed font to [Roboto](http://www.google.com/fonts/specimen/Roboto)
