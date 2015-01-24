@@ -2,6 +2,7 @@
 
 - Changed `pre` background color to `#f8f8f8`
 - Increased `.nav-menu` font size
+- *Tested with [Twenty Fifteen](https://wordpress.org/themes/twentyfifteen) v1.0*
 
 
 ## 0.2 (2015-01-24)
