@@ -346,3 +346,12 @@ pre{
      margin-top: 25px;
    }
  }
+
+ /**
+  * Print
+  */
+ @media print{
+   .entry-footer .sharing{
+     display: none;
+   }
+ }
