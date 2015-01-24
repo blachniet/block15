@@ -1,0 +1,288 @@
+/*
+Theme Name:   Block 15
+Theme URI:    http://blachniet.com
+Description:  A child theme of Twenty Fifteen for http://blachniet.com
+Author:       Brian Lachniet
+Author URI:   http://blachniet.com
+Template:     twentyfifteen
+Version:      0.1.0
+License:      MIT
+License URI:
+Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain:  block15
+*/
+
+/**
+ * Header
+ */
+.site-title{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.site-header{
+  padding: 15px;
+}
+
+.site-branding {
+  text-align: center;
+  padding-left: 60px;
+}
+
+.site-logo{
+  position:absolute;
+  left:0;
+  top:50%;
+  transform:translateY(-50%);
+}
+
+.site-logo img{
+  width: 42px;
+  height: 42px;
+  border-radius: 10px;
+}
+
+.social-navigation a:before{
+  font-size: 32px;
+}
+
+#menu-socialmenu {
+  text-align: center;
+}
+
+#menu-socialmenu li {
+  display: inline-block;
+  float: none;
+}
+
+/**
+* Roboto Font Family
+*/
+
+body,
+button,
+input,
+select,
+textarea {
+  font-family: 'Roboto', sans-serif;
+}
+
+blockquote cite,
+blockquote small {
+  font-family: 'Roboto', sans-serif;
+}
+
+.post-navigation .post-title {
+  font-family: 'Roboto', sans-serif;
+}
+
+::-webkit-input-placeholder {
+  font-family: 'Roboto', sans-serif;
+}
+
+:-moz-placeholder {
+  font-family: 'Roboto', sans-serif;
+}
+
+::-moz-placeholder {
+  font-family: 'Roboto', sans-serif;
+}
+
+:-ms-input-placeholder {
+  font-family: 'Roboto', sans-serif;
+}
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  font-family: 'Roboto', sans-serif;
+}
+
+.post-password-form label {
+  font-family: 'Roboto', sans-serif;
+}
+
+.main-navigation .menu-item-description {
+  font-family: 'Roboto', sans-serif;
+}
+
+.post-navigation .meta-nav {
+  font-family: 'Roboto', sans-serif;
+}
+
+.post-navigation .post-title {
+  font-family: 'Roboto', sans-serif;
+}
+
+.pagination {
+  font-family: 'Roboto', sans-serif;
+}
+
+.image-navigation,
+.comment-navigation {
+  font-family: 'Roboto', sans-serif;
+}
+
+.site-title {
+  font-family: 'Roboto', sans-serif;
+}
+
+.site-description {
+  font-family: 'Roboto', sans-serif;
+}
+
+.widget-title {
+  font-family: 'Roboto', sans-serif;
+}
+
+.widget_calendar caption {
+  font-family: 'Roboto', sans-serif;
+}
+
+.widget_rss .rss-date,
+.widget_rss cite {
+  font-family: 'Roboto', sans-serif;
+}
+
+.author-heading {
+  font-family: 'Roboto', sans-serif;
+}
+
+.entry-footer {
+  font-family: 'Roboto', sans-serif;
+}
+
+.page-title {
+  font-family: 'Roboto', sans-serif;
+}
+
+.page-links {
+  font-family: 'Roboto', sans-serif;
+}
+
+.entry-caption {
+  font-family: 'Roboto', sans-serif;
+}
+
+.comments-title,
+.comment-reply-title {
+  font-family: 'Roboto', sans-serif;
+}
+
+.comment-metadata,
+.pingback .edit-link {
+  font-family: 'Roboto', sans-serif;
+}
+
+.comment-list .reply a {
+  font-family: 'Roboto', sans-serif;
+}
+
+.comment-form label {
+  font-family: 'Roboto', sans-serif;
+}
+
+.comment-notes,
+.comment-awaiting-moderation,
+.logged-in-as,
+.form-allowed-tags {
+  font-family: 'Roboto', sans-serif;
+}
+
+.no-comments {
+  font-family: 'Roboto', sans-serif;
+}
+
+.form-allowed-tags code {
+  font-family: 'Roboto', sans-serif;
+}
+
+.wp-caption-text {
+  font-family: 'Roboto', sans-serif;
+}
+
+.gallery-caption {
+  font-family: 'Roboto', sans-serif;
+}
+
+/**
+ * Footer
+ */
+.site-footer .site-info {
+  text-align: center;
+}
+
+/**
+ * Posts
+ */
+.cat-links {
+  visibility: none;
+}
+
+/**
+ * Media
+ */
+
+ /**
+  * Tablet Small 740px
+  */
+ @media screen and (min-width: 46.25em) {
+   .site-branding{
+     padding-left: 66px;
+   }
+
+   .site-logo img{
+     width: 56px;
+     height: 56px;
+     border-radius: 14px;
+   }
+ }
+
+/**
+ * Tablet Large 880px
+ */
+ @media screen and (min-width: 55em) {
+   .site-branding{
+     padding-left: 74px;
+   }
+
+   .site-logo img{
+     width: 64px;
+     height: 64px;
+     border-radius: 16px;
+   }
+ }
+
+/**
+ * Desktop Small 955px
+ */
+ @media screen and (min-width: 59.6875em) {
+   .site-title{
+     position: relative;
+     top: 0;
+     left: 0;
+     transform: none;
+   }
+
+   .site-branding{
+     padding-left: 0;
+   }
+
+   .site-logo{
+     position: relative;
+     margin-bottom: 35px;
+   }
+
+   .site-logo img{
+     width: 200px;
+     height: 200px;
+     border-radius: 50px;
+   }
+
+   .site-title{
+     margin-top: 25px;
+   }
+ }
