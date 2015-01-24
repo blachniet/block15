@@ -15,10 +15,12 @@ Below is a list of some of the differences between this theme and it's parent:
 - Increased size of social icons
 - Hid category links in post footers
 - Added custom footer
+- Increased nav menu font size
+- Changed `pre` background color
 
 ## Contributing
 
-Building the theme archive: 
+Building the theme archive:
 
 ```
 git archive --format=zip --prefix=block15/ -o block15.0.2.zip v0.2

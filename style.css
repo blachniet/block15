@@ -48,6 +48,10 @@ Text Domain:  block15
   font-size: 32px;
 }
 
+.nav-menu{
+  font-size: 1.15em;
+}
+
 #menu-socialmenu {
   text-align: center;
 }
@@ -206,6 +210,15 @@ input[type="submit"] {
 
 .gallery-caption {
   font-family: 'Roboto', sans-serif;
+}
+
+/**
+* Text
+*/
+pre{
+  border: none;
+  background: #f8f8f8;
+  padding: 0.5em;
 }
 
 /**
