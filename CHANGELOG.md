@@ -6,3 +6,5 @@
 - Increased size of social icons
 - Hid category links in post footers
 - Added custom footer
+
+*Tested with [Twenty Fifteen](https://wordpress.org/themes/twentyfifteen) v1.0*
