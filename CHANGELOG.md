@@ -1,3 +1,9 @@
+## 0.3 (2015-01-24)
+
+- Changed `pre` background color to `#f8f8f8`
+- Increased `.nav-menu` font size
+
+
 ## 0.2 (2015-01-24)
 
 - Removed outline from logo link
