@@ -1,3 +1,8 @@
+## vnext
+
+- Removed outline from logo link
+
+
 ## 0.1 (2015-01-23)
 
 - Added logo to sidebar/header
