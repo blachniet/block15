@@ -1,7 +1,8 @@
-## vNext (2015-01-24)
+## 0.4 (2015-01-24)
 
 - Disabled comments
 - Added share on Twitter button
+- *Tested with [Twenty Fifteen](https://wordpress.org/themes/twentyfifteen) v1.0*
 
 
 ## 0.3 (2015-01-24)

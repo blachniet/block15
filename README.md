@@ -19,10 +19,19 @@ Below is a list of some of the differences between this theme and it's parent:
 - Changed `pre` background color
 - Disabled comments - added share on Twitter button instead
 
-## Contributing
+## Release Steps
 
-Building the theme archive:
+This is mostly just a reminder for me of the steps involved in releasing a new
+version.
+
+1. Update the version in [style.css](style.css)
+2. Update the version in the [CHANGELOG.md](CHANGELOG.md)
+3. Commit changes
+4. Tag the repo
+5. Build the archive
 
 ```
 git archive --format=zip --prefix=block15/ -o block15.0.2.zip v0.2
 ```
+
+6. Draft the release on GitHub
