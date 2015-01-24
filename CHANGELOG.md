@@ -2,6 +2,7 @@
 
 - Removed outline from logo link
 - Added screenshot
+- *Tested with [Twenty Fifteen](https://wordpress.org/themes/twentyfifteen) v1.0*
 
 
 ## 0.1 (2015-01-23)
@@ -12,5 +13,4 @@
 - Increased size of social icons
 - Hid category links in post footers
 - Added custom footer
-
-*Tested with [Twenty Fifteen](https://wordpress.org/themes/twentyfifteen) v1.0*
+- *Tested with [Twenty Fifteen](https://wordpress.org/themes/twentyfifteen) v1.0*
