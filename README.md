@@ -3,6 +3,7 @@
 **Block 15** is WordPress theme built for [Brian Lachniet's website](http://blachniet.com).
 It is a child theme of [Twenty Fifteen](https://wordpress.org/themes/twentyfifteen).
 
+![Block 15](https://raw.githubusercontent.com/blachniet/block15/master/screenshot.jpg)
 
 ## Features
 
