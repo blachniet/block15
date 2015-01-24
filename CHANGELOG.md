@@ -1,4 +1,4 @@
-## vnext
+## 0.2 (2015-01-24)
 
 - Removed outline from logo link
 - Added screenshot
