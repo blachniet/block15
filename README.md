@@ -35,3 +35,15 @@ git archive --format=zip --prefix=block15/ -o block15.0.2.zip v0.2
 ```
 
 6. Draft the release on GitHub
+
+## Quick Specs
+
+- Colors:
+  - Dark Gray: #333
+  - Dark Blue: #007acc
+
+From [Twenty Fifteen](https://wordpress.org/themes/twentyfifteen):
+
+- The main content width is 660px.
+- The sidebar width is 248px.
+- Featured Images are 825px wide by 510px high.
