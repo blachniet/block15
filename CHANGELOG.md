@@ -1,3 +1,10 @@
+## 0.6 (2015 Jul 12)
+
+- Centered post footer links
+- Removed category links from post footers (again)
+
+--------------------------------------------------------------------------------
+
 ## 0.5 (2015 Jul 12)
 
 - Added a footer menu

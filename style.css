@@ -169,6 +169,7 @@ input[type="submit"] {
 }
 
 .entry-footer {
+  text-align: center;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -288,7 +289,7 @@ pre{
  * Posts
  */
 .cat-links {
-  visibility: none;
+  display: none;
 }
 
 /**
