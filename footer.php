@@ -18,6 +18,7 @@
 				 */
 				do_action( 'twentyfifteen_credits' );
 			?>
+			<?php wp_nav_menu( array( 'theme_location' => 'footer' ) ); ?>
 			Copyright &copy; <a href="http://blachniet.com">Brian Lachniet</a> 2011-<?php echo date("Y"); ?>
 		</div><!-- .site-info -->
 	</footer><!-- .site-footer -->

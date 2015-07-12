@@ -61,6 +61,19 @@ Text Domain:  block15
   float: none;
 }
 
+#menu-footermenu{
+  text-align: center;
+}
+
+#menu-footermenu li{
+  display: inline;
+  float: none;
+}
+
+#menu-footermenu li:not(:last-child)::after{
+  content: " / "
+}
+
 /**
 * Roboto Font Family
 */
