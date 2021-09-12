@@ -18,6 +18,11 @@
 				 */
 				do_action( 'twentyfifteen_credits' );
 			?>
+			<?php
+			if ( function_exists( 'the_privacy_policy_link' ) ) {
+				the_privacy_policy_link( '', '<span role="separator" aria-hidden="true"></span>' );
+			}
+			?>
 			<?php wp_nav_menu( array( 'theme_location' => 'footer' ) ); ?>
 			Copyright &copy; <a href="http://blachniet.com">Brian Lachniet</a> 2011-<?php echo date("Y"); ?>
 		</div><!-- .site-info -->

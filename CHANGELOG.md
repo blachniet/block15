@@ -1,3 +1,9 @@
+## 0.7 (2021 Sep 12)
+
+- Syncrhonize with parent theme.
+
+--------------------------------------------------------------------------------
+
 ## 0.6 (2015 Jul 12)
 
 - Centered post footer links
