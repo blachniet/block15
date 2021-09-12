@@ -57,7 +57,7 @@
 		<?php edit_post_link( __( 'Edit', 'twentyfifteen' ), '<span class="edit-link">', '</span>' ); ?>
 		<div class="sharing">
 		  <p>Questions? Comments? Start a conversation on Twitter...</p>
-		  <a class="share-btn-twitter" href="http://twitter.com/share?text=<?php urlencode(the_title()) ?>&url=<?php urlencode(the_permalink())?>&via=blachniet">Share on Twitter</a>
+		  <a class="share-btn-twitter" href="https://twitter.com/share?text=<?php urlencode(the_title()) ?>&url=<?php urlencode(the_permalink())?>&via=blachniet">Share on Twitter</a>
 		</div>
 	</footer><!-- .entry-footer -->
 
