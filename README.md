@@ -30,9 +30,9 @@ version.
 1. Tag, build and publish.
 
     ```sh
-    version="0.2"
-    git archive --format=zip --prefix=block15/ -o block15.$version.zip v$version
-    gh release create v$version block15.$version.zip
+    git tag v0.2
+    git archive --format=zip --prefix=block15/ -o block15.0.2.zip v0.2
+    gh release create v0.2 block15.0.2.zip
     ```
 
 ## Quick Specs
