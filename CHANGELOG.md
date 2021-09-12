@@ -1,3 +1,9 @@
+## 0.9 (2021 Sep 12)
+
+- Switched to GitHub Dark Dimmed theme for code highlighting.
+
+--------------------------------------------------------------------------------
+
 ## 0.8 (2021 Sep 12)
 
 - Upgraded highlight.js to v11.2.0.
