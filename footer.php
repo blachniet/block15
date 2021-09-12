@@ -33,7 +33,7 @@
 <?php wp_footer(); ?>
 
 <script type="text/javascript">
-	hljs.initHighlightingOnLoad();
+	hljs.highlightAll();
 </script>
 
 </body>

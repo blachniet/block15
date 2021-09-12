@@ -31,9 +31,9 @@ version.
 4. Tag the repo
 5. Build the archive
 
-```
-git archive --format=zip --prefix=block15/ -o block15.0.2.zip v0.2
-```
+    ```sh
+    git archive --format=zip --prefix=block15/ -o block15.0.2.zip v0.2
+    ```
 
 6. Draft the release on GitHub
 
