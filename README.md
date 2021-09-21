@@ -27,10 +27,12 @@ version.
 
 1. Update the version in [style.css](style.css).
 1. Commit changes.
-1. Tag, build and publish.
+1. Push, tag, build and publish.
 
     ```sh
+    git push
     git tag v0.2
+    git push --tags
     git archive --format=zip --prefix=block15/ -o block15.0.2.zip v0.2
     gh release create v0.2 block15.0.2.zip
     ```
