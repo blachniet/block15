@@ -20,6 +20,12 @@ Below is a list of some of the differences between this theme and it's parent:
 - Disabled comments - added share on Twitter button instead
 - Added a footer menu
 
+### Notes
+
+Add the `note` CSS class to a block to emphasize some content.
+
+![note](./docs/img/note.png)
+
 ## Release Steps
 
 This is mostly just a reminder for me of the steps involved in releasing a new
